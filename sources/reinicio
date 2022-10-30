@@ -6,5 +6,5 @@ bot_retorno="$LINE\n"
           bot_retorno+="$LINE\n"
 msj_fun
 sleep 2
-reboot
+# reboot
 }
